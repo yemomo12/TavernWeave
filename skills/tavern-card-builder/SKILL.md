@@ -1,6 +1,7 @@
 ---
 name: tavern-card-builder
-description: Plan and author SillyTavern text, MVU Zod, and hybrid cards with required greetings and worldbooks, character design, player profiles and agency, optional character stages, portrayal diagnosis and corrections, worldbuilding, variables, and prompt routing. Use for new or inherited cards, standalone rolecard prompt rules, opening style, small in-card creative pieces, author-facing assessment, character material, worldbuilding, state systems, and field tracing. Route independent worldbook design and writing, packaging, exact APIs, live debugging, embedded UI implementation, and workshop infrastructure to their owning skills.
+description: 【写卡|建卡|角色卡创作|世界观】Plan and author SillyTavern text, MVU Zod, and hybrid cards with required greetings and worldbooks, character design, player profiles and agency, optional character stages, portrayal diagnosis and corrections, worldbuilding, variables, and prompt routing. Use for new or inherited cards, standalone rolecard prompt rules, opening style, small in-card creative pieces, author-facing assessment, character material, worldbuilding, state systems, and field tracing. Route independent worldbook design and writing, packaging, exact APIs, live debugging, embedded UI implementation, and workshop infrastructure to their owning skills.
+trigger: 写卡|建卡|角色卡|世界观|MVU卡
 ---
 
 # Tavern Card Builder
