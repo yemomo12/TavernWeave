@@ -1,6 +1,7 @@
 ---
 name: worldbook-design-and-writing
-description: Plan, split, merge, review, and write SillyTavern worldbooks independently of whole-card creation. Jointly design scene information needs, native or template loading, entry bodies, conditions, exceptions, knowledge boundaries, and paired configuration. Use for standalone worldbook work, semantic-preserving entry rewrites, and native/template/partial-mix choices. Keep character design, exact APIs, state writers, real-runtime validation, and packaging with their existing owners.
+description: 【世界书|条目编写|世界书拆分】Plan, split, merge, review, and write SillyTavern worldbooks independently of whole-card creation. Jointly design scene information needs, native or template loading, entry bodies, conditions, exceptions, knowledge boundaries, and paired configuration. Use for standalone worldbook work, semantic-preserving entry rewrites, and native/template/partial-mix choices. Keep character design, exact APIs, state writers, real-runtime validation, and packaging with their existing owners.
+trigger: 世界书|条目|设定集|世界书设计
 ---
 
 # Worldbook Design and Writing
