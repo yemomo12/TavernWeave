@@ -1,6 +1,7 @@
 ---
 name: build-work-library
-description: Build source-backed work reference libraries for fan creation from novels, local material, researched webpages and inspected image references. Use for 小说转资料库/数据库、作品资料库、同人资料整理、联网收集文图、原作设定检索与二创资料包. Preserve canon/fanon, adaptation, spoiler stage and provenance; produce editable Markdown, rebuildable JSONL and optional SQLite. Not the TW bundled design catalog, a generic SQL app, or an in-card MVU database.
+description: 【作品资料库|考据库|设定库|原作资料】Build source-backed work reference libraries for fan creation from novels, local material, researched webpages and inspected image references. Use for 小说转资料库/数据库、作品资料库、同人资料整理、联网收集文图、原作设定检索与二创资料包. Preserve canon/fanon, adaptation, spoiler stage and provenance; produce editable Markdown, rebuildable JSONL and optional SQLite. Not the TW bundled design catalog, a generic SQL app, or an in-card MVU database.
+trigger: 作品资料库|考据|设定库|原作资料|同人资料
 ---
 
 # 作品资料库 · 小说、联网文图与二创检索
