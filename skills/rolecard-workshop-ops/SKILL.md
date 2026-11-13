@@ -1,6 +1,7 @@
 ---
 name: rolecard-workshop-ops
-description: Diagnose, review, operate, or deploy a generic rolecard workshop made of a static catalog, package gateway, object storage, OAuth ownership, review workflow, and reverse proxy. Use for health checks, API-contract alignment, publish/update/withdraw flows, privacy review, CORS and callback diagnosis, container or proxy planning, and explicitly authorized deployment. Start read-only; never deploy, rotate credentials, revoke access, or mutate production unless the user clearly authorizes that action and target.
+description: 【角色卡工坊|发卡平台|部署运维】Diagnose, review, operate, or deploy a generic rolecard workshop made of a static catalog, package gateway, object storage, OAuth ownership, review workflow, and reverse proxy. Use for health checks, API-contract alignment, publish/update/withdraw flows, privacy review, CORS and callback diagnosis, container or proxy planning, and explicitly authorized deployment. Start read-only; never deploy, rotate credentials, revoke access, or mutate production unless the user clearly authorizes that action and target.
+trigger: 角色卡工坊|发卡|网关|部署|运维|平台
 ---
 
 # Rolecard Workshop Ops
