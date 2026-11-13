@@ -1,6 +1,7 @@
 ---
 name: consult-tavernweave-library
-description: Route TavernWeave work to bundled development guides, the standing A0 checklist, screened design and motion catalogs, concept/source references, and the offline picker. Also provide TW plain-language guidance and explicit user-selected 新人/入门/熟练/老手 preference management. Use before TW file writes, for relevant domain or design guidance, or when the user asks to choose, query or change an onboarding level. Do not load the entire library, publish excluded private material, infer a user level, or treat a catalog candidate as adopted work.
+description: 【查资料|内部库|A0清单|开发指南】Route TavernWeave work to bundled development guides, the standing A0 checklist, screened design and motion catalogs, concept/source references, and the offline picker. Also provide TW plain-language guidance and explicit user-selected 新人/入门/熟练/老手 preference management. Use before TW file writes, for relevant domain or design guidance, or when the user asks to choose, query or change an onboarding level. Do not load the entire library, publish excluded private material, infer a user level, or treat a catalog candidate as adopted work.
+trigger: 查资料|内部库|开发指南|A0|清单|设计目录
 ---
 
 # TavernWeave Library
