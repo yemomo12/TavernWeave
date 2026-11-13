@@ -1,6 +1,7 @@
 ---
 name: shadcn-tailwind-ui
-description: Build, restyle, or review accessible React interfaces that use shadcn/ui, Radix UI primitives, and Tailwind CSS. Use for component composition, responsive layouts, semantic design tokens, dark mode, forms, dialogs, tables, keyboard interaction, and safe Tailwind configuration in React, Vite, or Next.js projects. Do not use for canvas art, posters, font bundles, non-React frameworks, or general brand design.
+description: 【shadcn|Tailwind|React界面美化】Build, restyle, or review accessible React interfaces that use shadcn/ui, Radix UI primitives, and Tailwind CSS. Use for component composition, responsive layouts, semantic design tokens, dark mode, forms, dialogs, tables, keyboard interaction, and safe Tailwind configuration in React, Vite, or Next.js projects. Do not use for canvas art, posters, font bundles, non-React frameworks, or general brand design.
+trigger: shadcn|tailwind|react|界面美化|组件库
 ---
 
 # shadcn + Tailwind UI
