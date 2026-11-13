@@ -1,6 +1,7 @@
 ---
 name: reflect-on-vibe-code-growth
-description: Reassess a user's complete Vibe Code capability network from currently available host conversations, workspace, project-state, and delivery evidence; produce both a detailed standalone text assessment form and a seven-part interactive Vibe Code 成长历程 report; compare only genuinely comparable dimensions with prior immutable mirror records; and optionally save an append-only local history. Use when the user says 照镜子, 分析我的 Vibe Code 成长历程, 再次核验成长, 和上次履历比较, 保存照镜子履历, 从上一次履历继续分析, 只要文字评估, or 导出文字评估表单. Keep exact measurements, user reports, estimates, behavior-evidence scores, and unverifiable claims separate.
+description: 【能力复盘|成长评估|Vibe复盘】Reassess a user's complete Vibe Code capability network from currently available host conversations, workspace, project-state, and delivery evidence; produce both a detailed standalone text assessment form and a seven-part interactive Vibe Code 成长历程 report; compare only genuinely comparable dimensions with prior immutable mirror records; and optionally save an append-only local history. Use when the user says 照镜子, 分析我的 Vibe Code 成长历程, 再次核验成长, 和上次履历比较, 保存照镜子履历, 从上一次履历继续分析, 只要文字评估, or 导出文字评估表单. Keep exact measurements, user reports, estimates, behavior-evidence scores, and unverifiable claims separate.
+trigger: 能力复盘|成长评估|复盘|能力网络
 ---
 
 # 照镜子 · Vibe Code 成长历程
