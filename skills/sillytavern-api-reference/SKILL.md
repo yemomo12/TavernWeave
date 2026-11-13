@@ -1,6 +1,7 @@
 ---
 name: sillytavern-api-reference
-description: Verify exact SillyTavern, Tavern Helper / JS-Slash-Runner, STScript, macro, prompt-injection, worldbook, EJS, MVU, and runtime-library capabilities before implementing or reviewing rolecard automation. Use when a task depends on a function signature, event payload, slash-command grammar, variable scope, message-floor operation, generation option, runtime-symbol provider, Git/CDN loader, or version-sensitive extension capability.
+description: 【ST接口|酒馆API|宏|STScript】Verify exact SillyTavern, Tavern Helper / JS-Slash-Runner, STScript, macro, prompt-injection, worldbook, EJS, MVU, and runtime-library capabilities before implementing or reviewing rolecard automation. Use when a task depends on a function signature, event payload, slash-command grammar, variable scope, message-floor operation, generation option, runtime-symbol provider, Git/CDN loader, or version-sensitive extension capability.
+trigger: ST接口|酒馆API|宏|STScript|世界书API|变量API
 ---
 
 # SillyTavern API Reference
