@@ -1,6 +1,7 @@
 ---
 name: sillytavern-embedded-ui
-description: Design, implement, or review framework-neutral embedded interfaces for SillyTavern rolecards, including message content pages, opening pages, MVU status bars, control centers, drawers, and popups. Use for creative visual design, message-to-page protocols, state-to-display mapping, HTML/CSS/JavaScript, interaction states, responsive behavior, accessibility, safe rendering, optional project-specific frontend sandboxes using real source, and the real-runtime handoff. Do not use as the primary skill to close behavior in a live SillyTavern instance; hand that work to sillytavern-runtime-debug.
+description: 【卡内界面|嵌入UI|消息内UI】Design, implement, or review framework-neutral embedded interfaces for SillyTavern rolecards, including message content pages, opening pages, MVU status bars, control centers, drawers, and popups. Use for creative visual design, message-to-page protocols, state-to-display mapping, HTML/CSS/JavaScript, interaction states, responsive behavior, accessibility, safe rendering, optional project-specific frontend sandboxes using real source, and the real-runtime handoff. Do not use as the primary skill to close behavior in a live SillyTavern instance; hand that work to sillytavern-runtime-debug.
+trigger: 卡内界面|嵌入UI|消息UI|内嵌界面
 ---
 
 # SillyTavern Embedded UI
