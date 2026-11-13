@@ -1,6 +1,7 @@
 ---
 name: sillytavern-runtime-debug
-description: Reproduce, diagnose, collect execution evidence for, and close acceptance of rolecard behavior inside a real SillyTavern runtime using any capable browser driver. Use when the primary task requires live execution of imports, required regex/helper scripts, host extensions, Git/CDN or regional loaders, MVU/Zod capabilities, opening pages, status bars, control centers, iframes, real-time reload, console, responsive, or interaction checks that static previews cannot prove. Do not use as the primary skill for designing or implementing embedded UI source; hand those changes to sillytavern-embedded-ui, then resume runtime validation on the rebuilt artifact.
+description: 【跑卡调试|真实ST复现|验收】Reproduce, diagnose, collect execution evidence for, and close acceptance of rolecard behavior inside a real SillyTavern runtime using any capable browser driver. Use when the primary task requires live execution of imports, required regex/helper scripts, host extensions, Git/CDN or regional loaders, MVU/Zod capabilities, opening pages, status bars, control centers, iframes, real-time reload, console, responsive, or interaction checks that static previews cannot prove. Do not use as the primary skill for designing or implementing embedded UI source; hand those changes to sillytavern-embedded-ui, then resume runtime validation on the rebuilt artifact.
+trigger: 跑卡|调试|复现|验收|运行时排错
 ---
 
 # SillyTavern Runtime Debug
